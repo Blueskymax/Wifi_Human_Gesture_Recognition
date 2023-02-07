@@ -2,13 +2,14 @@
 
 ## 题目：《基于WIFI-CSI的人体姿态检测》
 
-**Summary：** 对收集WiFi信号的CSI数据利用基于机器学习的方法对人体姿态进行检测\
+**Summary：** 对收集WiFi信号的CSI数据利用基于机器学习的方法对人体姿态进行检测
 
 题目解说：https://zhuanlan.zhihu.com/p/544526139?utm_campaign=&utm_medium=social&utm_oi=872053480418861056&utm_psn=1586119821300813824&utm_source=qq
 
 **Source：** 《RF-Based Fall Monitoring Using Convolutional Neural Networks》
 
-**Publication：** https://aryokee.csail.mit.edu/        http://rfpose.csail.mit.edu/
+**Publication：** https://aryokee.csail.mit.edu/  \\      
+                  http://rfpose.csail.mit.edu/
 
 
 
@@ -72,7 +73,7 @@ UT-HAR数据集用Excel打开乱码，需要论文提供的配套代码打开
 
 #### 3《**FallDeFi: Ubiquitous Fall Detection using Commodity Wi-Fi Devices**》
 
-**Note：** 发表于2017年，开源的数据集合代码
+**Note：** 发表于2017年，数据集和代码已开源
 
 **Publication：** https://dl.acm.org/doi/10.1145/3161183
 
